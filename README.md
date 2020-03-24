@@ -1,17 +1,6 @@
 # PythonAndMachineLearning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-****
-### 失效链接已更新(开放下载链接) 2019-11-05
-
-链接:  提取码: yncn 复制这段内容后打开百度网盘手机App，操作更方便哦
-> MP4无加密的视频整套教程下载(前往百度云(提取码：yncn)，点击[这里](https://pan.baidu.com/s/17iZaJRGOL8YY-SZomj_fUw))
-****
-> 第一套讲义下载 (前往百度云(提取码：uaxk)，点击[这里](https://pan.baidu.com/s/1dZxU6ueqvvsjJEnBeuA5wA))
-****
-> 第二套讲义下载，前往百度云(提取码：gkns)，点击[这里](https://pan.baidu.com/s/1eiVW2goBkSsp_5snqikaVQ)
-下载后的讲义解压密码：BJ黑马python培训第24期
-****
 
 
 **以第二套的为准，第一套结构胡乱，讲义不全，第二套讲义的内容可以点击下面的章节图片进行在线预览。链接设置为永久有效，如果百度云链接失效，请在issue联系我，我会及时回复。**
@@ -64,5 +53,3 @@
 - [ ] [27数据挖掘](/27数据挖掘/README.md)
 
 
-## 备注
-学习还在进行中，章节还在更新中，本仓库中的所有内容均来自于网络，仅学习目的，如有侵权，请及时联系撤销发布。
